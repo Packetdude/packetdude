@@ -1,0 +1,64 @@
+body { 
+  background-color: #aabbaa;
+}
+li {
+  font-size: 24px;
+}
+.menu {
+  text-align: center;
+}
+#btnA {
+  background-color: Red;
+  height: 35px;
+  width: 75px;
+}
+#btnB {
+  background-color: White;
+  height: 35px;
+  width: 50px;
+}     
+#btnC {
+  background-color: Blue;
+  height: 35px;
+}
+#btnD {
+  background-color: Purple;
+  height: 35px;
+  margin-top: 100px;
+}
+#mainBody { 
+ font-size: 20px;
+  font-family: Georgia;
+  margin-top: 20px;
+}
+#body2 {
+  color:purple;
+  background-color:Orange;
+}
+#Landing {
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+  margin: 20px;
+}
+#movie { 
+ text-align: center; 
+ background-color: orange;
+ margin-left: 200px;
+ margin-right: 200px;
+}
+#billboard {
+ width: 15em;
+ height: 23em;
+}
+#JM1 {
+  width: 370px;
+  height: 550px;
+}
+#body4 {
+  background-color: grey;
+}
+#menuheader {  
+font-family: Sans-Serif;
+text-decoration: underline;
+}
